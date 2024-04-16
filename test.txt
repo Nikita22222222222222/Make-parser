@@ -1,0 +1,5 @@
+
+targets: dependence
+    command
+    command
+    command
